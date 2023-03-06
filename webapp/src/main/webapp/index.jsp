@@ -53,7 +53,7 @@
           <h2>Deputy Manager, Vodafone Shared Services</h2>
 
           <p>Deputy manager with 7.9 years experience in Production support Telecommunication Domain working on various application - CSM,UPS,SIM and MNP.</p>
-          <p>I am looking for new challenging opportunities to further extend and enhance my production support skill. Some of my skills are - Incident Management, SQL, Unix, BMC Remedy, AWS.</p>
+          <p>I am looking for new challenging opportunities to further extend and enhance my production support skill. Some of my skills are - BMC Remedy, Incident Management, SQL, Unix, AWS.</p>
         </div>
       </header>
 
