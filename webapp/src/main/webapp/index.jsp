@@ -53,7 +53,7 @@
           <h2>Deputy Manager, Vodafone Shared Services</h2>
 
           <p>Deputy manager with 7.9 years’ experience in Production support Telecommunication Domain working on various application - CSM,UPS,SIM and MNP.</p>
-          <p>I am looking for new challenging opportunities to further extend and enhance my production support skill.  <a href="http://teethang.com" target="_blank">Nuthin’ But a Tee Thang</a>, an online store I’m running with my husband.</p>
+          <p>I am looking for new challenging opportunities to further extend and enhance my production support skill.</p>
         </div>
       </header>
 
@@ -96,10 +96,9 @@
         <div class="content-wrap item-details divider">
           <h2>Work Experience</h2>
           <p>See my complete work history on <a href="https://www.linkedin.com/in/payal-pachgade-1ba066b4">LinkedIn</a>.</p>
-          <br>
-          <br>
+          
           <h3>Deputy Manager, Vodafone Shared Services.</h3>
-          <p>May 2015 – Present</p>
+          <p>May 2015 to Present</p>
 
 
           <!-- Job 1 -->
@@ -142,17 +141,35 @@
           <!-- Job 3 -->
           <section class="job-item">
             <div class="job-details">
-              <h3>Lead Front-End Developer</h3>
-              <p>Field iD</p>
-              <p>March 2013 - February 2014</p>
+              <h3>SIM and Number Management</h3>
             </div>
             <div class="job-summary">
-              <p>Lead the front-end development for the in-house safety inspection software.</p>
               <p>Key contributions:</p>
               <ul>
-                <li>Responsible for setting code standards for the front-end development.</li>
-                <li>Created a fully customized front-end framework, including the UI/UX design.</li>
-                <li>Standardized the site architecture and design.</li>
+                <li>Worked on backend application KIAS 2000.</li>
+                <li>Trouble-shooting production incidents requiring detailed analysis of backend application, relational databases.</li>
+                <li>Examined software code issues and raised Problem Incident to vendor to get it fixed.</li>
+                <li>Worked on SIM number Management (SIM_MGM) to maintain serial number and number lifecycle.</li>
+                <li>Raised enhancement for the current software code in order to see the detailed code in log.</li>
+                <li>Analyzed recurring incidents and handover such incidents to L1 team as a part of FTF.</li>
+              </ul>
+            </div>
+          </section>
+
+          <!-- Job 4 -->
+          <section class="job-item">
+            <div class="job-details">
+              <h3>MNP(mobile number portability)</h3>
+            </div>
+            <div class="job-summary">
+              <p>Key contributions:</p>
+              <ul>
+                <li>Worked on backend application KIAS 2000.</li>
+                <li>Trouble-shooting production incidents requiring detailed analysis of backend application, relational databases.</li>
+                <li>Examined software code issues and raised Problem Incident to vendor to get it fixed.</li>
+                <li>Worked on MNP issues daily to maintain SLA.</li>
+                <li>Raised enhancement for the current software code in order to see the detailed code in log.</li>
+                <li>Analyzed recurring incidents and handover such incidents to L1 team as a part of FTF.</li>
               </ul>
             </div>
           </section>
@@ -165,20 +182,21 @@
           <h2>Education</h2>
 
           <section>
-            <h3>Seneca College - Toronto, ON</h3>
-            <p>Webmaster Content Site Design Certificate, 2006</p>
-            <p>14 week full-time program covering HTML, CSS, Flash, Photoshop, PHP and JavaScript.</p>
+            <h3>Bachelor of Engineering, Computer Science</h3>
+            <p>Aug 2010 to May 2014</p>
+            <p>Sant Gadge Baba Amravati University</p>
           </section>
 
           <section>
-            <h3>York University - Toronto, ON</h3>
-            <p>Bachelor of Arts with Honours, 2001-2005</p>
-            <p>Double Major in Communications & Psychology.</p>
+            <h3>Higher Secondory School Certificate</h3>
+            <p>Jul 2008 to Jul 2010</p>
+            <p>JC Chaware Junior College, Karanja (Lad),Maharashtra Board.</p>
           </section>
 
           <section>
-            <h3>San Jose State University - San Jose, CA</h3>
-            <p>General Studies, 2000</p>
+            <h3>Secondory School Certificate</h3>
+            <p>Jul 2007 to Jul 2008</p>
+            <p>JC Chaware School, Karanja (Lad),Maharashtra Board.</p>
           </section>
         </div>
       </section>
@@ -190,10 +208,10 @@
 
           <!-- Social media and contact links. Add or remove any networks. -->
           <ul class="contact-list">
-            <li><a href="mailto:email@example.com">email@example.com</a></li>
-            <li><a href="http://christinatruong.com" target="_blank">christinatruong.com</a></li>
-            <li><a href="http://twitter.com/christinatruong" target="_blank">Twitter</a></li>
-            <li><a href="#" target="_blank">LinkedIn</a></li>
+            <li><a href="mailto:email@example.com">payal.pachgade@gmail.com</a></li>
+            <li><a href="https://www.linkedin.com/in/payal-pachgade-1ba066b4" target="_blank">payalpachgade.com</a></li>
+            <li><a href="https://www.linkedin.com/in/payal-pachgade-1ba066b4" target="_blank">Twitter</a></li>
+            <li><a href="https://www.linkedin.com/in/payal-pachgade-1ba066b4" target="_blank">LinkedIn</a></li>
           </ul>
         </div>
       </footer>
